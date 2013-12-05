@@ -41,7 +41,7 @@ var Tools = {
       if (!deps) { return; }
 
       for (var packageName in deps) {
-        if (packageName !== "grunt-config" && packageName.match(/^grunt-/)) {
+        if (packageName !== "grunt-settings" && packageName.match(/^grunt-/)) {
           this._grunt.loadNpmTasks(packageName);
         }
       }
