@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/fnando/grunt-config.git"
+    "url": "https://github.com/fnando/grunt-settings.git"
   },
   "keywords": [
     "grunt"
@@ -16,7 +16,7 @@
   "author": "Nando Vieira",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/fnando/grunt-config/issues"
+    "url": "https://github.com/fnando/grunt-settings/issues"
   },
-  "homepage": "https://github.com/fnando/grunt-config"
+  "homepage": "https://github.com/fnando/grunt-settings"
 }
