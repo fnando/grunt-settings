@@ -75,3 +75,4 @@ module.exports = function(grunt) {
 ## Release History
 
  * 2013-12-05   v0.0.1   Initial release.
+ * 2013-12-05   v0.0.2   Bug fix; wasn't ignoring the correct package name.
